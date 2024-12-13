@@ -14,7 +14,7 @@ import java.net.URL
 
 object ApiService {
 
-    private const val API_URL = "https://cac5754ad4201481fd3d.free.beeceptor.com/api/animal/"
+    private const val API_URL = "https://ca810c41f67656685064.free.beeceptor.com/api/animal/"
 
     // Function to fetch animals from the API using HttpURLConnection
     fun getAnimals(onResult: (List<Animal>?) -> Unit) {
